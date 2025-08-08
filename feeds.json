@@ -98,6 +98,7 @@
     "title": "ParadeDB Blog",
     "url": "https://paradedb.com/feed.xml"
   },
+  {
     "title": "Stack - Convex Blog",
     "url": "https://stack.convex.dev/rss/feed.xml",
     "filter_tags": [
